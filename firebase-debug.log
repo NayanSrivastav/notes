@@ -1,0 +1,28 @@
+[debug] [2017-06-29T09:21:36.541Z] ----------------------------------------------------------------------
+[debug] [2017-06-29T09:21:36.543Z] Command:      /usr/local/Cellar/node/8.0.0_1/bin/node /usr/local/bin/firebase serve
+[debug] [2017-06-29T09:21:36.544Z] CLI Version:  3.9.1
+[debug] [2017-06-29T09:21:36.544Z] Platform:     darwin
+[debug] [2017-06-29T09:21:36.544Z] Node Version: v8.0.0
+[debug] [2017-06-29T09:21:36.544Z] Time:         Thu Jun 29 2017 14:51:36 GMT+0530 (IST)
+[debug] [2017-06-29T09:21:36.544Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-06-29T09:21:36.558Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-06-29T09:21:36.558Z] > authorizing via signed-in user
+[debug] [2017-06-29T09:21:36.560Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/todo-41ac1  
+ Thu Jun 29 2017 14:51:36 GMT+0530 (IST)
+[debug] [2017-06-29T09:21:38.601Z] <<< HTTP RESPONSE 200
+[debug] [2017-06-29T09:21:38.602Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/todo-41ac1/tokens  
+ Thu Jun 29 2017 14:51:38 GMT+0530 (IST)
+[debug] [2017-06-29T09:21:39.706Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/nayan/Documents/pwa-prep/noteapp/notes/notes'...
+[info] 
+[debug] [2017-06-29T09:21:39.709Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/todo-41ac1  
+ Thu Jun 29 2017 14:51:39 GMT+0530 (IST)
+[debug] [2017-06-29T09:21:41.550Z] <<< HTTP RESPONSE 200
+[debug] [2017-06-29T09:21:41.551Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/212713120659/clients/_:getWebAppConfig  
+ Thu Jun 29 2017 14:51:41 GMT+0530 (IST)
+[debug] [2017-06-29T09:21:42.691Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: public
+[info] ✔  hosting: Local server: http://localhost:5000
+
