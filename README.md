@@ -4,8 +4,7 @@
 
 A simple, offline-based notepad, based on usage of [Service Worker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) and [PWA techniques.](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/)
 
-View the demo [here](https://sii.im/playground/notes) on a [capable device.](http://caniuse.com/#feat=serviceworkers)
-
+View the demo [here](https://todo-41ac1.firebaseapp.com/) 
 ## Features
 
   - Write notes and save them to [localStorage](https://developer.mozilla.org/en/docs/Web/API/Window/localStorage)
